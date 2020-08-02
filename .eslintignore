@@ -1,0 +1,10 @@
+/build/**
+/dist/**
+/tmp/**
+/node_modules/**
+.eslintrc.js
+*.config.js
+jsDoc.js
+src/SVGComponents/
+*.css
+src/index.html
